@@ -1,4 +1,3 @@
-### Tiago Hucs
 <img src="img/responsive-logo.png" width="30%" align="right"/>
 Desenvolvimento de soluções java web orientadas a testes automatizados.
 Java, JSP, JPA, Springframework
@@ -13,5 +12,19 @@ Utilização de metodologias e práticas de teste Scrum , Agile.
 Frameworks de teste e suporte a teste, JUnity, Cucumber, Concordion, Selenium, CRT2.
 
 Testes de integração com PowerCenter(ETL). 
+
+```
+{
+  developer: {
+    javascript,
+    java
+   },
+  tester: {
+    cucumber,
+    concordion,
+    tdd
+  }
+}
+```
 
 
