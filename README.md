@@ -12,20 +12,3 @@ Utilização de metodologias e práticas de teste Scrum , Agile.
 Frameworks de teste e suporte a teste, JUnity, Cucumber, Concordion, Selenium, CRT2.
 
 Testes de integração com PowerCenter(ETL). 
-
-
-```
-{
-  developer: {
-    javascript,
-    java
-   },
-  tester: {
-    cucumber,
-    concordion,
-    tdd
-  }
-}
-```
-
-
