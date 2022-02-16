@@ -13,6 +13,7 @@ Frameworks de teste e suporte a teste, JUnity, Cucumber, Concordion, Selenium, C
 
 Testes de integração com PowerCenter(ETL). 
 
+<span style="color:chartreuse">
   developer: {
     javascript,
     java
@@ -23,8 +24,9 @@ Testes de integração com PowerCenter(ETL).
     tdd
   }
 }
+</span>
 
-<span style="color:chartreuse">
+
 ```
 {
   developer: {
@@ -38,6 +40,5 @@ Testes de integração com PowerCenter(ETL).
   }
 }
 ```
-</span>
 
 
