@@ -1,10 +1,17 @@
 ### Tiago Hucs
+<img src="img/responsive-logo.png" width="30%" align="right"/>
+Desenvolvimento de soluções java web orientadas a testes automatizados.
+Java, JSP, JPA, Springframework
+Javascript, AngularJs, Angular 2+ , typescript,
+Npm, Maven, 
+Versionamento: git, svn.
+IDEs: Eclipse , IntelliJ, Netbean, VScode, Postman, Insomnia.
 
-```
-npm run hucs
-```
+Planejamento e execução de scripts de teste manuais e automatizados.
+Utilização de metodologias e práticas de teste Scrum , Agile.
 
-<img src="img/responsive-logo.png" width="30%"/>
-<img src="master/responsive-logo.png" width="30%"/>
-<img src="/img/responsive-logo.png" width="30%"/>
-<img src="/master/responsive-logo.png" width="30%"/>
+Frameworks de teste e suporte a teste, JUnity, Cucumber, Concordion, Selenium, CRT2.
+
+Testes de integração com PowerCenter(ETL). 
+
+
